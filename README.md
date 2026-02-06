@@ -25,7 +25,6 @@ This project is designed to troll the user with emotional messages until the **N
 ## 🚀 Live Preview
 👉 https://saadmkh.github.io/valentine-day-special/
 
-(Replace this link after enabling GitHub Pages)
 
 ---
 
